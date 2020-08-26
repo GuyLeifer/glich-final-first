@@ -1,0 +1,14 @@
+.popupsearch{
+    position: fixed;
+    left: 10px;
+    top:5px;
+}
+.searchbutton{
+    color:white;
+    background-color: lightslategray;
+    border:none;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    height: 20px;
+}

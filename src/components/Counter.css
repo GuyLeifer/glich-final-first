@@ -1,0 +1,24 @@
+/* #restoreHideTickets {
+    background-color: white;
+} */
+.counter{
+    margin:auto;
+    max-width: 800px;
+    background-color: lightslategray;
+    padding:0px 10px;
+    border-radius: 5px;
+}
+.counter button{
+    background:none;
+    border: none;
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.counterSentence {
+    width: 300px;
+    margin: auto;
+    color: rgb(49, 47, 43);
+    font-weight: bold;
+}
